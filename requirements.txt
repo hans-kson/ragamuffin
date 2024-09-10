@@ -1,10 +1,13 @@
 llama-index 
-langchain 
 llama-index-readers-web 
 llama-index-embeddings-langchain 
 llama-index-llms-huggingface 
-langchain-community
-
 llama-index-vector-stores-chroma
 llama-index-embeddings-fastembed
 llama-index-llms-huggingface-api
+
+langchain 
+langchain-openai
+langchain-community
+langchain-chroma
+langchainhub
