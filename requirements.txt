@@ -11,3 +11,6 @@ langchain-openai
 langchain-community
 langchain-chroma
 langchainhub
+
+pypdf
+chromadb
